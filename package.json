@@ -1,0 +1,1 @@
+{"name":"watchparty","version":"1.0.0","scripts":{"start":"node server.js","test":"node test/load.js"},"dependencies":{"ws":"^8.18.0"}}
